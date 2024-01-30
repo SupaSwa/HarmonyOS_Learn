@@ -1,6 +1,7 @@
 {
   "src": [
     "pages/Index",
-    "pages/Page_ohpm_mcCharts"
+    "pages/Page_ohpm_mcCharts",
+    "pages/Page_Notice"
   ]
 }

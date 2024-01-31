@@ -96,6 +96,8 @@ struct Index {
     .height('100%')
     .backgroundColor('#F1F2F3')
   }
+
+  //列表删除设置LIST
   @Builder DeletButton(index : number){
     Button(){
       Text('删除')

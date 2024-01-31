@@ -2,6 +2,7 @@
   "src": [
     "pages/Index",
     "pages/Page_ohpm_mcCharts",
-    "pages/Page_Notice"
+    "pages/Page_Notice",
+    "pages/Page_Pop_ups"
   ]
 }
